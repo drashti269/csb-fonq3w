@@ -1,0 +1,2 @@
+body{font-family:sans-serif;background-color:#0ff;align-items:center;height:95vh;transition:background-color 1s}.clickMe,body{display:flex;justify-content:center}.clickMe{border-radius:10px;padding:20px;background-color:#bfbfbf;width:100px;cursor:pointer;transition:background-color,box-shadow .5s;box-shadow:4px 2px 2px #bfbfbf}.clickMe:hover{background-color:#efcfcf;box-shadow:2px 0 2px #cfcfcf}
+/*# sourceMappingURL=/csb-fonq3w/src.4e32d167.css.map */
